@@ -26,7 +26,9 @@ Windows Laptop
 
 - Problems I had:
 
-I had so much problems in installation by pip, pipwin, pip3, sudo, condo, wheel, brew and any kind of installalation method by directly writing in the Terminal and especially PyAudio and I searched a lot to find solutions to this errors and problems. Finally, after a lot of readings and searching and trying I asked my brother and he suggested to use PyCharm because of its easy way to install Python Packages. However, Even with that I could not install PyAudio on Mac OS. I tried my best and readed, searched and tried a lot and finally I had to try with a Laptop with WINDOWS operating system and finally installed PyAudio and the code runed just fine BUT the next problem was the Mic it wasn't recored any thing I tried to fix that problem and sadly I couldn't.
+I had so much problems in installation by pip, pipwin, pip3, sudo, condo, wheel, brew and any kind of installalation method by directly writing in the Terminal and especially PyAudio and I searched a lot to find solutions to this errors and problems. Finally, after a lot of readings and searching and trying I asked my brother and he suggested to use PyCharm because of its easy way to install Python Packages. 
+
+However, Even with that I could not install PyAudio on Mac OS for the Speech to Text code. I tried my best and readed, searched and tried a lot and finally I had to try with a Laptop with WINDOWS operating system and finally installed PyAudio and the code runed just fine BUT the next problem was the Mic it wasn't recoring any thing I tried to fix that problem and sadly I couldn't. On the other hand, Text To Speech service code was succesfully runed by PyCharm.
 
 
 
